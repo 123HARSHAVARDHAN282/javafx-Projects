@@ -127,29 +127,3 @@ java --module-path $PATH_TO_FX --add-modules javafx.controls,javafx.fxml -cp .:$
 
 ---
 
-## 🔑 Keywords for Discovery
-
-`JavaFX`, `Login GUI`, `Signup JavaFX`, `SQLite authentication`, `JavaFX SQLite App`, `Java GUI with database`, `User Login JavaFX`, `Signup screen`, `JavaFX Desktop App`, `Modern Java GUI`, `JDBC`, `Form validation`, `JavaFX project`, `Java Desktop Authentication`
-
----
-
-## 📃 License
-
-This project is licensed under the [MIT License](LICENSE). You are free to use and modify it for educational or personal use.
-
----
-
-## 🙌 Author
-
-Built with ❤️ using Java, JavaFX & SQLite.
-
-```
-
----
-
-Let me know if you'd like:
-
-- A `.zip` with all files + this `README.md`
-- Auto-generated `.jar` packaging instructions
-- GitHub repo structure initializer (like `.gitignore`, `LICENSE`, etc.)
-```
