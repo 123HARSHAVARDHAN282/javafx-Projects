@@ -1,9 +1,7 @@
-Sure! Here's a complete `README.md` file that **includes everything** from project overview, structure, how to run, dependencies, and `runfx.sh` content — all in one ready-to-use markdown file for your GitHub repo:
 
----
 
-````markdown
 # 🎯 JavaFX Login & SignUp GUI App with SQLite
+````markdown
 
 A polished **JavaFX desktop application** featuring **user authentication** with local **SQLite database** integration. Includes a responsive and modern UI for login and signup forms, with proper validation and local user data persistence.
 
